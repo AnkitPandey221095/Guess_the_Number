@@ -36,37 +36,13 @@ User can move there task up and down according to their priorities.
 
 To install and run the project locally, follow these steps:
 
-- Clone the repository: `git clone https://github.com/maciekt07/TodoApp.git`
-- Navigate to the project directory: `cd TodoApp`
+- Clone the repository: `https://github.com/AnkitPandey221095/ToDo.git`
+- Navigate to the project directory: `cd ToDo`
 - Install the dependencies: `npm install`
 - Start the development server: `npm run dev`
 
-The app will now be running at [http://localhost:5173/](http://localhost:5173/).
-
-> [!TIP]
-> For mobile device testing, use `npm run dev:host` to preview the app on your local network.
-
 ## 📷 Screenshots
 
-<img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/settings.png" width="500px" />
 
-<img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/ss1.png" width="300px" />
-<img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/ss2.png" width="300px" />
 
-<img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/ss3.png" width="300px" />
-
-<!-- <img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/ss4.png" width="300px" />
-
-<img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/ss5.png" width="300px" />
-
-<img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/ss6.png" width="300px" /> -->
-
-<img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/sspc1.png" width="650px" />
-
-## 🚀 Performance
-
-<img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/performance.png" width="600px" />
-
-## Credits
-
-Made with ❤️ by [maciekt07](https://github.com/maciekt07), licensed under [MIT](https://github.com/maciekt07/TodoApp/blob/main/LICENSE).
+## 🚀 ThankYou
